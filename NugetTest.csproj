@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackageId>NugetTest</PackageId>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+</Project>
